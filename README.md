@@ -8,7 +8,7 @@
 - Adminer runs on port 8080 (useful for exploring and debugging database)
 
 ## Strapi
-- Your Strapi files live in this directory
+- Your Strapi files live in `server` directory
 - edit either the .env file or docker-compose.yml file to provide database env variables
 
 # Getting started

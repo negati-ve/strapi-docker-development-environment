@@ -13,7 +13,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "find-config": "^1.0.0",
-    "knex": "<0.20.0",
+    "knex": "<2.5.0",
     "mysql": "latest",
     "strapi": "3.0.0-beta.19.3",
     "strapi-admin": "3.0.0-beta.19.3",
